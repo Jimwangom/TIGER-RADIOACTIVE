@@ -24,24 +24,24 @@ const chalk = require('chalk')
 global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
 global.ig = 'kipkoech' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
-global.region = 'kenya' // serah
+global.region = 'Tanzania' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DRAGON' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'James' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254746764468'] // ubah aja pake nomor lu
+global.owner = ['255628470507'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' // ubah aja ini nama sticker
 global.author = '༻࿇𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴❖༺' // ubah aja ini nama sticker
-global.prefa = '.'
+global.prefa = '*'
 global.sessionName = 'Tigersession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.autolike = process.env.autolikestatus || "TRUE"
-global.autoread = process.env.autoread || "TRUE"
+global.autoread = process.env.autoread || "FALSE"
 global.wlcm = []
 global.wlcmm = []
-global.anticall = true
+global.anticall = false
 global.rn = 'false'
 /*
 Declaring Menu type
